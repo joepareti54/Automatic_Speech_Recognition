@@ -22,3 +22,7 @@ unless the corpus is as large as or even larger than the original dataset.
 
 But my VCTK corpus is much smaller therefore there will be no further performance improvement.
 
+Additional Project Details:
+- Based on NeMo: https://docs.google.com/document/d/1bZQc1GIQ3oQHSXMoRi5bOBF4jcK_oEEElJ7WUPvrmZ0/edit#
+- Based on Listen Attend Spell models : https://docs.google.com/document/d/1jkljv9BlOkVwP7E78EpSh7nSiYqrY2tXXyWOduPD74g/edit#
+
