@@ -26,3 +26,5 @@ Additional Project Details:
 - Based on NeMo: https://docs.google.com/document/d/1bZQc1GIQ3oQHSXMoRi5bOBF4jcK_oEEElJ7WUPvrmZ0/edit#
 - Based on Listen Attend Spell models : https://docs.google.com/document/d/1jkljv9BlOkVwP7E78EpSh7nSiYqrY2tXXyWOduPD74g/edit#
 
+# special note for myself, in order to keep track on what was done
+The programs have been run from my HP laptop which is cpu only. This proves that a GPU is NOT mandatory for inference and testing
